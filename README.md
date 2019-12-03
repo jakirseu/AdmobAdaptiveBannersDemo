@@ -1,0 +1,1 @@
+# Admob Adaptive Banners Demo
