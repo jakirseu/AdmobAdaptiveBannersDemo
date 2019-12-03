@@ -1,4 +1,4 @@
-package com.binarytuts.admobadaptivebannersdemo;
+package me.binarytuts.admobadaptivebannersdemo;
 
 import android.content.Context;
 

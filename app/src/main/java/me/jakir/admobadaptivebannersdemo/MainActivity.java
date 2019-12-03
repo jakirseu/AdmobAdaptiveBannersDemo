@@ -1,10 +1,12 @@
-package com.binarytuts.admobadaptivebannersdemo;
+package me.jakir.admobadaptivebannersdemo;
 
 import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.DisplayMetrics;
 import android.view.Display;
 import android.widget.FrameLayout;
+
+
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdSize;
 import com.google.android.gms.ads.AdView;
