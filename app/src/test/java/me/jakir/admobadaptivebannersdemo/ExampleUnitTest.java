@@ -1,4 +1,4 @@
-package me.binarytuts.admobadaptivebannersdemo;
+package me.jakir.admobadaptivebannersdemo;
 
 import org.junit.Test;
 
